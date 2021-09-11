@@ -1,5 +1,11 @@
-body {
+main {
     color:darkolivegreen;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+header {
+    color: white;
+    padding: 8px;
+    background-color: teal;
 }

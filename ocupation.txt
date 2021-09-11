@@ -2,4 +2,5 @@ Hello! my name is Cristian
 
 I'm Web developer in a big company (:
 
-nueva linea prueba
+Esto prueba que los archivos en staging no estan en RAM y no se pierden al apagar la computadora
+(:
