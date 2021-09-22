@@ -1,3 +1,5 @@
 #Ignoramos archivos con extencion .jpeg
 
+*.jpeg
+
 
